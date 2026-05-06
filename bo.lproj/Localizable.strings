@@ -1,6 +1,6 @@
 "copy" = "copy";
-"paste" = "";
-"upload" = "";
+"paste" = "paste";
+"upload" = "upload";
 "archive" = "";
 "duplicate" = "";
 "edit" = "";
