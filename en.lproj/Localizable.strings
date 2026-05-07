@@ -1,8 +1,6 @@
-// Needs review
-"copy" = "Copy";
+"copy" = "Copy2";
 "paste" = "Paste";
 "upload" = "Upload";
-// Needs review
 "archive" = "Compress";
 "duplicate" = "Duplicate";
 "edit" = "Edit";
