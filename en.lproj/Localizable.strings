@@ -331,6 +331,33 @@
 "browser.downloads.speed_format" = "Speed: %@/s";
 "browser.downloads.eta_unknown" = "Time left: --";
 "browser.downloads.eta_format" = "Time left: %@";
+"p2p.add.title" = "Add P2P";
+"p2p.add.sequential_download" = "Sequential download";
+"p2p.add.start_paused" = "Start paused";
+"p2p.add.selected" = "Selected";
+"p2p.add.add_to_downloads" = "Add to Downloads";
+"p2p.priority.skip" = "Skip";
+"p2p.priority.low" = "Low";
+"p2p.priority.normal" = "Normal";
+"p2p.priority.high" = "High";
+"p2p.downloads.title" = "Downloads";
+"p2p.downloads.empty_state" = "No downloads";
+"p2p.downloads.action_pause" = "Pause";
+"p2p.downloads.action_resume" = "Resume";
+"p2p.downloads.action_remove" = "Remove";
+"p2p.downloads.action_remove_with_files" = "Remove with Files";
+"p2p.downloads.actions_accessibility" = "Actions";
+"p2p.downloads.status_checking_files" = "Checking files";
+"p2p.downloads.status_fetching_metadata" = "Fetching metadata";
+"p2p.downloads.status_downloading" = "Downloading";
+"p2p.downloads.status_finished" = "Finished";
+"p2p.downloads.status_seeding" = "Seeding";
+"p2p.downloads.status_resuming" = "Resuming";
+"p2p.downloads.status_paused" = "Paused";
+"p2p.downloads.status_storage_error" = "Storage error";
+"p2p.downloads.status_progress" = "%@ %d%%";
+"p2p.downloads.speed_format" = "↓ %@/s ↑ %@/s";
+"p2p.downloads.size_format" = "%@ / %@";
 
 /* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";

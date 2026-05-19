@@ -1,0 +1,3 @@
+"NSMicrophoneUsageDescription" = "iFile 需要访问麦克风以录制音频文件";
+"NSFaceIDUsageDescription" = "iFile 需要访问 Face ID 以解锁 App";
+"NSPhotoLibraryAddUsageDescription" = "iFile 需要访问照片图库以保存图片和视频";

@@ -1,0 +1,3 @@
+"NSMicrophoneUsageDescription" = "iFile potrzebuje dostępu do mikrofonu, aby nagrywać pliki audio";
+"NSFaceIDUsageDescription" = "iFile potrzebuje dostępu do Face ID, aby odblokować aplikację";
+"NSPhotoLibraryAddUsageDescription" = "iFile potrzebuje dostępu do biblioteki zdjęć, aby zapisywać obrazy i wideo";

@@ -1,0 +1,3 @@
+"NSMicrophoneUsageDescription" = "iFile がオーディオファイルを録音するにはマイクへのアクセスが必要です";
+"NSFaceIDUsageDescription" = "iFile がアプリのロックを解除するには Face ID へのアクセスが必要です";
+"NSPhotoLibraryAddUsageDescription" = "iFile が画像や動画を保存するには写真ライブラリへのアクセスが必要です";
