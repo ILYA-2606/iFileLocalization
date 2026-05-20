@@ -17,6 +17,9 @@
 "elements_one" = "元素";
 "elements_some" = "元素";
 "elements_many" = "元素";
+"downloads_one" = "下载";
+"downloads_some" = "下载";
+"downloads_many" = "下载";
 "services.authorized" = "已授权";
 "services.unauthorized" = "未授权";
 "services.started" = "已启动";
@@ -331,7 +334,7 @@
 "browser.downloads.speed_format" = "速度：%@/秒";
 "browser.downloads.eta_unknown" = "剩余时间：--";
 "browser.downloads.eta_format" = "剩余时间：%@";
-"p2p.add.title" = "添加 P2P";
+"p2p.add.title" = "添加文件";
 "p2p.add.sequential_download" = "顺序下载";
 "p2p.add.start_paused" = "暂停开始";
 "p2p.add.selected" = "已选择";
@@ -355,9 +358,7 @@
 "p2p.downloads.status_resuming" = "正在继续";
 "p2p.downloads.status_paused" = "已暂停";
 "p2p.downloads.status_storage_error" = "存储错误";
-"p2p.downloads.status_progress" = "%@ %d%%";
-"p2p.downloads.speed_format" = "↓ %@/秒 ↑ %@/秒";
-"p2p.downloads.size_format" = "%@ / %@";
+"p2p.downloads.second" = "秒";
 
 /* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
@@ -580,6 +581,8 @@
 "settings.feedback.success.title" = "反馈已发送";
 "settings.feedback.success.message" = "感谢你的反馈！";
 "settings.misc.title" = "其他";
+"settings.misc.new_version_available" = "有新版本可用";
+"settings.misc.help_translate" = "帮助翻译";
 "settings.misc.rate_app" = "评价 App";
 "settings.misc.more_apps" = "Darkness Production 的 App";
 "settings.misc.open_apps_failed" = "无法打开 App Store。";

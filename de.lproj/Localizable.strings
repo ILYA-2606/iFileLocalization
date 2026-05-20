@@ -17,6 +17,9 @@
 "elements_one" = "Element";
 "elements_some" = "Elemente";
 "elements_many" = "Elemente";
+"downloads_one" = "Download";
+"downloads_some" = "Downloads";
+"downloads_many" = "Downloads";
 "services.authorized" = "Autorisiert";
 "services.unauthorized" = "Nicht autorisiert";
 "services.started" = "Gestartet";
@@ -331,7 +334,7 @@
 "browser.downloads.speed_format" = "Geschwindigkeit: %@/s";
 "browser.downloads.eta_unknown" = "Verbleibende Zeit: --";
 "browser.downloads.eta_format" = "Verbleibende Zeit: %@";
-"p2p.add.title" = "P2P hinzufügen";
+"p2p.add.title" = "Datei hinzufügen";
 "p2p.add.sequential_download" = "Sequenzieller Download";
 "p2p.add.start_paused" = "Pausiert starten";
 "p2p.add.selected" = "Ausgewählt";
@@ -355,9 +358,7 @@
 "p2p.downloads.status_resuming" = "Wird fortgesetzt";
 "p2p.downloads.status_paused" = "Pausiert";
 "p2p.downloads.status_storage_error" = "Speicherfehler";
-"p2p.downloads.status_progress" = "%@ %d%%";
-"p2p.downloads.speed_format" = "↓ %@/s ↑ %@/s";
-"p2p.downloads.size_format" = "%@ / %@";
+"p2p.downloads.second" = "s";
 
 /* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
@@ -580,6 +581,8 @@
 "settings.feedback.success.title" = "Feedback gesendet";
 "settings.feedback.success.message" = "Vielen Dank für Ihr Feedback!";
 "settings.misc.title" = "Sonstiges";
+"settings.misc.new_version_available" = "Neue Version verfügbar";
+"settings.misc.help_translate" = "Beim Übersetzen helfen";
 "settings.misc.rate_app" = "App bewerten";
 "settings.misc.more_apps" = "Apps von Darkness Production";
 "settings.misc.open_apps_failed" = "App Store konnte nicht geöffnet werden.";

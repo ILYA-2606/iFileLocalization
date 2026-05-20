@@ -17,6 +17,9 @@
 "elements_one" = "елемент";
 "elements_some" = "елементи";
 "elements_many" = "елементів";
+"downloads_one" = "завантаження";
+"downloads_some" = "завантаження";
+"downloads_many" = "завантажень";
 "services.authorized" = "Авторизовано";
 "services.unauthorized" = "Не авторизовано";
 "services.started" = "Запущено";
@@ -331,7 +334,7 @@
 "browser.downloads.speed_format" = "Швидкість: %@/с";
 "browser.downloads.eta_unknown" = "Залишилось: --";
 "browser.downloads.eta_format" = "Залишилось: %@";
-"p2p.add.title" = "Додати P2P";
+"p2p.add.title" = "Додати файл";
 "p2p.add.sequential_download" = "Послідовне завантаження";
 "p2p.add.start_paused" = "Почати на паузі";
 "p2p.add.selected" = "Вибрано";
@@ -355,9 +358,7 @@
 "p2p.downloads.status_resuming" = "Відновлення";
 "p2p.downloads.status_paused" = "На паузі";
 "p2p.downloads.status_storage_error" = "Помилка сховища";
-"p2p.downloads.status_progress" = "%@ %d%%";
-"p2p.downloads.speed_format" = "↓ %@/с ↑ %@/с";
-"p2p.downloads.size_format" = "%@ / %@";
+"p2p.downloads.second" = "с";
 
 /* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
@@ -580,6 +581,8 @@
 "settings.feedback.success.title" = "Відгук надіслано";
 "settings.feedback.success.message" = "Дякуємо за ваш відгук!";
 "settings.misc.title" = "Інше";
+"settings.misc.new_version_available" = "Доступна нова версія";
+"settings.misc.help_translate" = "Допомогти перекласти";
 "settings.misc.rate_app" = "Оцінити застосунок";
 "settings.misc.more_apps" = "Застосунки від Darkness Production";
 "settings.misc.open_apps_failed" = "Не вдалося відкрити App Store.";

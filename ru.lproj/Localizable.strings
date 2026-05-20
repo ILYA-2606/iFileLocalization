@@ -17,6 +17,9 @@
 "elements_one" = "элемент";
 "elements_some" = "элемента";
 "elements_many" = "элементов";
+"downloads_one" = "загрузка";
+"downloads_some" = "загрузки";
+"downloads_many" = "загрузок";
 "services.authorized" = "Авторизован";
 "services.unauthorized" = "Не авторизован";
 "services.started" = "Запущен";
@@ -331,7 +334,7 @@
 "browser.downloads.speed_format" = "Скорость: %@/с";
 "browser.downloads.eta_unknown" = "Осталось: --";
 "browser.downloads.eta_format" = "Осталось: %@";
-"p2p.add.title" = "Добавить P2P";
+"p2p.add.title" = "Добавить файл";
 "p2p.add.sequential_download" = "Последовательная загрузка";
 "p2p.add.start_paused" = "Начать на паузе";
 "p2p.add.selected" = "Выбрано";
@@ -355,9 +358,7 @@
 "p2p.downloads.status_resuming" = "Возобновление";
 "p2p.downloads.status_paused" = "На паузе";
 "p2p.downloads.status_storage_error" = "Ошибка хранилища";
-"p2p.downloads.status_progress" = "%@ %d%%";
-"p2p.downloads.speed_format" = "↓ %@/с ↑ %@/с";
-"p2p.downloads.size_format" = "%@ / %@";
+"p2p.downloads.second" = "с";
 
 /* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
@@ -580,6 +581,8 @@
 "settings.feedback.success.title" = "Отзыв отправлен";
 "settings.feedback.success.message" = "Спасибо за ваш отзыв!";
 "settings.misc.title" = "Прочее";
+"settings.misc.new_version_available" = "Доступна новая версия";
+"settings.misc.help_translate" = "Помочь перевести";
 "settings.misc.rate_app" = "Оценить приложение";
 "settings.misc.more_apps" = "Приложения от Darkness Production";
 "settings.misc.open_apps_failed" = "Не удалось открыть App Store.";

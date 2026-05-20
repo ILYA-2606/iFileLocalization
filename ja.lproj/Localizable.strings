@@ -17,6 +17,9 @@
 "elements_one" = "要素";
 "elements_some" = "要素";
 "elements_many" = "要素";
+"downloads_one" = "ダウンロード";
+"downloads_some" = "ダウンロード";
+"downloads_many" = "ダウンロード";
 "services.authorized" = "認証済み";
 "services.unauthorized" = "未認証";
 "services.started" = "開始済み";
@@ -331,7 +334,7 @@
 "browser.downloads.speed_format" = "速度: %@/秒";
 "browser.downloads.eta_unknown" = "残り時間: --";
 "browser.downloads.eta_format" = "残り時間: %@";
-"p2p.add.title" = "P2Pを追加";
+"p2p.add.title" = "ファイルを追加";
 "p2p.add.sequential_download" = "順次ダウンロード";
 "p2p.add.start_paused" = "一時停止で開始";
 "p2p.add.selected" = "選択済み";
@@ -355,9 +358,7 @@
 "p2p.downloads.status_resuming" = "再開中";
 "p2p.downloads.status_paused" = "一時停止中";
 "p2p.downloads.status_storage_error" = "ストレージエラー";
-"p2p.downloads.status_progress" = "%@ %d%%";
-"p2p.downloads.speed_format" = "↓ %@/秒 ↑ %@/秒";
-"p2p.downloads.size_format" = "%@ / %@";
+"p2p.downloads.second" = "秒";
 
 /* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
@@ -580,6 +581,8 @@
 "settings.feedback.success.title" = "フィードバックを送信しました";
 "settings.feedback.success.message" = "フィードバックありがとうございます！";
 "settings.misc.title" = "その他";
+"settings.misc.new_version_available" = "新しいバージョンが利用可能です";
+"settings.misc.help_translate" = "翻訳に協力";
 "settings.misc.rate_app" = "アプリを評価";
 "settings.misc.more_apps" = "Darkness Production のアプリ";
 "settings.misc.open_apps_failed" = "App Store を開けませんでした。";
