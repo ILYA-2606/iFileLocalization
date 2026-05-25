@@ -243,6 +243,8 @@
 "tabbar.player" = "プレーヤー";
 "player.playlist.title" = "キュー";
 "player.lyrics.title" = "歌詞";
+"player.lyrics.mode.text" = "Text";
+"player.lyrics.mode.karaoke" = "Karaoke";
 "player.playlist.from_folder" = "フォルダから";
 "player.playlist.move_to_top" = "一番上へ移動";
 "player.playlist.favorites" = "お気に入り";

@@ -243,6 +243,8 @@
 "tabbar.player" = "Odtwarzacz";
 "player.playlist.title" = "Kolejka";
 "player.lyrics.title" = "Tekst utworu";
+"player.lyrics.mode.text" = "Text";
+"player.lyrics.mode.karaoke" = "Karaoke";
 "player.playlist.from_folder" = "Z folderu";
 "player.playlist.move_to_top" = "Przenieś na górę";
 "player.playlist.favorites" = "Ulubione";

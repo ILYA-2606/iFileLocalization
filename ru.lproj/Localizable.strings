@@ -243,6 +243,8 @@
 "tabbar.player" = "Плеер";
 "player.playlist.title" = "Очередь";
 "player.lyrics.title" = "Текст песни";
+"player.lyrics.mode.text" = "Текст";
+"player.lyrics.mode.karaoke" = "Караоке";
 "player.playlist.from_folder" = "Из папки";
 "player.playlist.move_to_top" = "Перенести наверх";
 "player.playlist.favorites" = "Избранное";

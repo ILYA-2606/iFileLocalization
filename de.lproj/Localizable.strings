@@ -243,6 +243,8 @@
 "tabbar.player" = "Player";
 "player.playlist.title" = "Warteschlange";
 "player.lyrics.title" = "Songtext";
+"player.lyrics.mode.text" = "Text";
+"player.lyrics.mode.karaoke" = "Karaoke";
 "player.playlist.from_folder" = "Aus Ordner";
 "player.playlist.move_to_top" = "Nach oben verschieben";
 "player.playlist.favorites" = "Favoriten";

@@ -243,6 +243,8 @@
 "tabbar.player" = "播放器";
 "player.playlist.title" = "队列";
 "player.lyrics.title" = "歌词";
+"player.lyrics.mode.text" = "Text";
+"player.lyrics.mode.karaoke" = "Karaoke";
 "player.playlist.from_folder" = "来自文件夹";
 "player.playlist.move_to_top" = "移到顶部";
 "player.playlist.favorites" = "收藏";

@@ -243,6 +243,8 @@
 "tabbar.player" = "Lecteur";
 "player.playlist.title" = "File d'attente";
 "player.lyrics.title" = "Paroles";
+"player.lyrics.mode.text" = "Text";
+"player.lyrics.mode.karaoke" = "Karaoke";
 "player.playlist.from_folder" = "Depuis le dossier";
 "player.playlist.move_to_top" = "Déplacer en haut";
 "player.playlist.favorites" = "Favoris";

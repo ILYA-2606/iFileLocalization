@@ -243,6 +243,8 @@
 "tabbar.player" = "Player";
 "player.playlist.title" = "Coda";
 "player.lyrics.title" = "Testo";
+"player.lyrics.mode.text" = "Text";
+"player.lyrics.mode.karaoke" = "Karaoke";
 "player.playlist.from_folder" = "Da cartella";
 "player.playlist.move_to_top" = "Sposta in alto";
 "player.playlist.favorites" = "Preferiti";
