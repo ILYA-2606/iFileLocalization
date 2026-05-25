@@ -362,8 +362,6 @@
 "p2p.downloads.status_paused" = "一時停止中";
 "p2p.downloads.status_storage_error" = "ストレージエラー";
 "p2p.downloads.second" = "秒";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "ファイルをアップロード";
@@ -384,18 +382,12 @@
 "web_server.html.open_folder" = "フォルダを開く";
 "web_server.html.download_file" = "ファイルをダウンロード";
 "web_server.html.download_as_zip" = "ZIP としてダウンロード";
-
-/* Common */
 "common.cancel" = "キャンセル";
 "common.create" = "作成";
 "common.error" = "エラー";
 "common.loading" = "読み込み中...";
 "common.ok" = "OK";
 "common.save" = "保存";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "タイトルで検索";
 "files.txt.toolbar_encoding" = "エンコーディング";
@@ -407,8 +399,6 @@
 "files.default.audio_prefix" = "オーディオ";
 "files.default.new_file_name" = "新規ファイル";
 "files.default.photo_prefix" = "写真";
-
-/* Add file options */
 "add_file.title" = "追加";
 "add_file.option.folder" = "フォルダ";
 "add_file.option.text_file" = "テキストファイル";
@@ -438,8 +428,6 @@
 "add_file.audio_recording.start_failed" = "録音を開始できません";
 "add_file.audio_recording.prepare_failed" = "オーディオ録音を準備できませんでした: %@";
 "add_file.audio_recording.playback_failed" = "オーディオ録音を再生できませんでした: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "名前を入力";
 "add_file.prompt.default_placeholder" = "名前";
 "add_file.prompt.folder_title" = "新規フォルダ";
@@ -451,8 +439,6 @@
 "add_file.prompt.audio_file_title" = "新規オーディオファイル";
 "add_file.prompt.audio_file_placeholder" = "オーディオファイル名";
 "add_file.prompt.audio_file_message" = "新しいオーディオファイルの名前を入力してください";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "名前（A から Z）";
 "files.sort.name_desc" = "名前（Z から A）";
 "files.sort.date_desc" = "新しい順";
@@ -472,8 +458,6 @@
 "files.selection.clear_all" = "すべて解除";
 "files.selection.delete_confirmation" = "選択した項目を削除しますか？";
 "files.search.not_found" = "何も見つかりませんでした";
-
-/* Errors */
 "files.error.camera_unavailable" = "このデバイスではカメラを利用できません";
 "files.error.documents_unavailable" = "Documents ディレクトリを利用できません";
 "files.error.outside_documents" = "URL は Documents ディレクトリの外にあります: %@";
@@ -494,8 +478,6 @@
 "files.error.only_files_can_be_imported" = "ファイルアプリからインポートできるのはファイルのみです";
 "files.error.invalid_name_empty" = "名前を空にすることはできません";
 "files.error.invalid_name_characters" = "名前に無効な文字が含まれています";
-
-/* Archive */
 "files.archive.not_archive" = "選択したファイルは ZIP アーカイブではありません";
 "files.archive.default.archive_name" = "アーカイブ";
 "files.archive.default.extracted_folder_name" = "展開済み";
@@ -513,8 +495,6 @@
 "files.compress.options.level.fast" = "高速";
 "files.compress.options.level.balanced" = "バランス";
 "files.compress.options.level.best" = "最高";
-
-/* Files row actions */
 "files.actions.title" = "アクション";
 "files.actions.properties" = "プロパティ";
 "files.actions.delete_confirmation" = "この項目を削除しますか？";
@@ -557,10 +537,8 @@
 "files.playlists.error.already_exists" = "同じ名前のプレイリストがすでに存在します";
 "files.playlists.error.protected" = "このプレイリストは変更できません";
 "files.playlists.error.not_found" = "プレイリストファイルが見つかりません";
-
 "settings.language" = "言語";
 "settings.version" = "バージョン";
-
 "settings.app_icon.title" = "アプリアイコン";
 "settings.app_icon.screen_title" = "アイコン";
 "settings.app_icon.unsupported" = "このデバイスではアプリアイコンの変更はサポートされていません。";
@@ -605,3 +583,5 @@
 "pincode.reset.title" = "アプリデータをリセット";
 "pincode.reset.message" = "すべてのアプリデータが削除されます。この操作は元に戻せません。";
 "pincode.reset.confirm" = "リセット";
+// Needs review
+"files.id3.plain_lyrics" = "平凡な歌詞";

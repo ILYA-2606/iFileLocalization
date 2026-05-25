@@ -362,8 +362,6 @@
 "p2p.downloads.status_paused" = "На паузе";
 "p2p.downloads.status_storage_error" = "Ошибка хранилища";
 "p2p.downloads.second" = "с";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Загрузить файл";
@@ -384,18 +382,12 @@
 "web_server.html.open_folder" = "Открыть папку";
 "web_server.html.download_file" = "Скачать файл";
 "web_server.html.download_as_zip" = "Скачать как ZIP";
-
-/* Common */
 "common.cancel" = "Отмена";
 "common.create" = "Создать";
 "common.error" = "Ошибка";
 "common.loading" = "Загрузка...";
 "common.ok" = "ОК";
 "common.save" = "Сохранить";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Поиск по названию";
 "files.txt.toolbar_encoding" = "Кодировка";
@@ -407,8 +399,6 @@
 "files.default.audio_prefix" = "Аудио";
 "files.default.new_file_name" = "Новый файл";
 "files.default.photo_prefix" = "Фото";
-
-/* Add file options */
 "add_file.title" = "Добавить";
 "add_file.option.folder" = "Папка";
 "add_file.option.text_file" = "Текстовый файл";
@@ -438,8 +428,6 @@
 "add_file.audio_recording.start_failed" = "Не удалось начать запись";
 "add_file.audio_recording.prepare_failed" = "Не удалось подготовить запись аудио: %@";
 "add_file.audio_recording.playback_failed" = "Не удалось воспроизвести аудиозапись: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Введите имя";
 "add_file.prompt.default_placeholder" = "Имя";
 "add_file.prompt.folder_title" = "Новая папка";
@@ -451,8 +439,6 @@
 "add_file.prompt.audio_file_title" = "Новый аудиофайл";
 "add_file.prompt.audio_file_placeholder" = "Имя аудиофайла";
 "add_file.prompt.audio_file_message" = "Введите имя нового аудиофайла";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Название (А-Я)";
 "files.sort.name_desc" = "Название (Я-А)";
 "files.sort.date_desc" = "Сначала новые";
@@ -472,8 +458,6 @@
 "files.selection.clear_all" = "Снять всё";
 "files.selection.delete_confirmation" = "Удалить выбранные элементы?";
 "files.search.not_found" = "Ничего не найдено";
-
-/* Errors */
 "files.error.camera_unavailable" = "Камера недоступна на этом устройстве";
 "files.error.documents_unavailable" = "Каталог Documents недоступен";
 "files.error.outside_documents" = "URL находится вне Documents: %@";
@@ -494,8 +478,6 @@
 "files.error.only_files_can_be_imported" = "Из Files можно импортировать только файлы";
 "files.error.invalid_name_empty" = "Имя не должно быть пустым";
 "files.error.invalid_name_characters" = "Имя содержит недопустимые символы";
-
-/* Archive */
 "files.archive.not_archive" = "Выбранный файл не является ZIP-архивом";
 "files.archive.default.archive_name" = "Архив";
 "files.archive.default.extracted_folder_name" = "Распаковано";
@@ -513,8 +495,6 @@
 "files.compress.options.level.fast" = "Быстро";
 "files.compress.options.level.balanced" = "Сбалансировано";
 "files.compress.options.level.best" = "Максимально";
-
-/* Files row actions */
 "files.actions.title" = "Действия";
 "files.actions.properties" = "Свойства";
 "files.actions.delete_confirmation" = "Удалить этот элемент?";
@@ -557,10 +537,8 @@
 "files.playlists.error.already_exists" = "Плейлист с таким названием уже существует";
 "files.playlists.error.protected" = "Этот плейлист нельзя изменять";
 "files.playlists.error.not_found" = "Файл плейлиста не найден";
-
 "settings.language" = "Язык";
 "settings.version" = "Версия";
-
 "settings.app_icon.title" = "Иконка приложения";
 "settings.app_icon.screen_title" = "Иконка";
 "settings.app_icon.unsupported" = "Это устройство не поддерживает смену иконки приложения.";
@@ -605,3 +583,4 @@
 "pincode.reset.title" = "Сброс данных приложения";
 "pincode.reset.message" = "Все данные приложения будут удалены. Это действие нельзя отменить.";
 "pincode.reset.confirm" = "Сбросить";
+"files.id3.plain_lyrics" = "Простой текст";

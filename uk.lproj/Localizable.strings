@@ -362,8 +362,6 @@
 "p2p.downloads.status_paused" = "На паузі";
 "p2p.downloads.status_storage_error" = "Помилка сховища";
 "p2p.downloads.second" = "с";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Завантажити файл";
@@ -384,18 +382,12 @@
 "web_server.html.open_folder" = "Відкрити папку";
 "web_server.html.download_file" = "Завантажити файл";
 "web_server.html.download_as_zip" = "Завантажити як ZIP";
-
-/* Common */
 "common.cancel" = "Скасувати";
 "common.create" = "Створити";
 "common.error" = "Помилка";
 "common.loading" = "Завантаження...";
 "common.ok" = "ОК";
 "common.save" = "Зберегти";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Пошук за назвою";
 "files.txt.toolbar_encoding" = "Кодування";
@@ -407,8 +399,6 @@
 "files.default.audio_prefix" = "Аудіо";
 "files.default.new_file_name" = "Новий файл";
 "files.default.photo_prefix" = "Фото";
-
-/* Add file options */
 "add_file.title" = "Додати";
 "add_file.option.folder" = "Папка";
 "add_file.option.text_file" = "Текстовий файл";
@@ -438,8 +428,6 @@
 "add_file.audio_recording.start_failed" = "Не вдалося почати запис";
 "add_file.audio_recording.prepare_failed" = "Не вдалося підготувати аудіозапис: %@";
 "add_file.audio_recording.playback_failed" = "Не вдалося відтворити аудіозапис: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Введіть ім'я";
 "add_file.prompt.default_placeholder" = "Ім'я";
 "add_file.prompt.folder_title" = "Нова папка";
@@ -451,8 +439,6 @@
 "add_file.prompt.audio_file_title" = "Новий аудіофайл";
 "add_file.prompt.audio_file_placeholder" = "Ім'я аудіофайлу";
 "add_file.prompt.audio_file_message" = "Введіть ім'я нового аудіофайлу";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Назва (А-Я)";
 "files.sort.name_desc" = "Назва (Я-А)";
 "files.sort.date_desc" = "Спочатку нові";
@@ -472,8 +458,6 @@
 "files.selection.clear_all" = "Зняти вибір";
 "files.selection.delete_confirmation" = "Видалити вибрані елементи?";
 "files.search.not_found" = "Нічого не знайдено";
-
-/* Errors */
 "files.error.camera_unavailable" = "Камера недоступна на цьому пристрої";
 "files.error.documents_unavailable" = "Каталог Documents недоступний";
 "files.error.outside_documents" = "URL перебуває поза Documents: %@";
@@ -494,8 +478,6 @@
 "files.error.only_files_can_be_imported" = "З Files можна імпортувати лише файли";
 "files.error.invalid_name_empty" = "Ім'я не має бути порожнім";
 "files.error.invalid_name_characters" = "Ім'я містить недопустимі символи";
-
-/* Archive */
 "files.archive.not_archive" = "Вибраний файл не є ZIP-архівом";
 "files.archive.default.archive_name" = "Архів";
 "files.archive.default.extracted_folder_name" = "Розпаковано";
@@ -513,8 +495,6 @@
 "files.compress.options.level.fast" = "Швидко";
 "files.compress.options.level.balanced" = "Збалансовано";
 "files.compress.options.level.best" = "Найкраще";
-
-/* Files row actions */
 "files.actions.title" = "Дії";
 "files.actions.properties" = "Властивості";
 "files.actions.delete_confirmation" = "Видалити цей елемент?";
@@ -557,10 +537,8 @@
 "files.playlists.error.already_exists" = "Плейлист із такою назвою вже існує";
 "files.playlists.error.protected" = "Цей плейлист не можна змінювати";
 "files.playlists.error.not_found" = "Файл плейлиста не знайдено";
-
 "settings.language" = "Мова";
 "settings.version" = "Версія";
-
 "settings.app_icon.title" = "Іконка застосунку";
 "settings.app_icon.screen_title" = "Іконка";
 "settings.app_icon.unsupported" = "Цей пристрій не підтримує зміну іконки застосунку.";
@@ -605,3 +583,5 @@
 "pincode.reset.title" = "Скинути дані застосунку";
 "pincode.reset.message" = "Усі дані застосунку буде видалено. Цю дію неможливо скасувати.";
 "pincode.reset.confirm" = "Скинути";
+// Needs review
+"files.id3.plain_lyrics" = "Прості тексти";

@@ -362,8 +362,6 @@
 "p2p.downloads.status_paused" = "In pausa";
 "p2p.downloads.status_storage_error" = "Errore di archiviazione";
 "p2p.downloads.second" = "s";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Carica file";
@@ -384,18 +382,12 @@
 "web_server.html.open_folder" = "Apri cartella";
 "web_server.html.download_file" = "Scarica file";
 "web_server.html.download_as_zip" = "Scarica come ZIP";
-
-/* Common */
 "common.cancel" = "Annulla";
 "common.create" = "Crea";
 "common.error" = "Errore";
 "common.loading" = "Caricamento...";
 "common.ok" = "OK";
 "common.save" = "Salva";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Cerca per titolo";
 "files.txt.toolbar_encoding" = "Codifica";
@@ -407,8 +399,6 @@
 "files.default.audio_prefix" = "Audio";
 "files.default.new_file_name" = "Nuovo file";
 "files.default.photo_prefix" = "Foto";
-
-/* Add file options */
 "add_file.title" = "Aggiungi";
 "add_file.option.folder" = "Cartella";
 "add_file.option.text_file" = "File di testo";
@@ -438,8 +428,6 @@
 "add_file.audio_recording.start_failed" = "Impossibile avviare la registrazione";
 "add_file.audio_recording.prepare_failed" = "Impossibile preparare la registrazione audio: %@";
 "add_file.audio_recording.playback_failed" = "Impossibile riprodurre la registrazione audio: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Inserisci nome";
 "add_file.prompt.default_placeholder" = "Nome";
 "add_file.prompt.folder_title" = "Nuova cartella";
@@ -451,8 +439,6 @@
 "add_file.prompt.audio_file_title" = "Nuovo file audio";
 "add_file.prompt.audio_file_placeholder" = "Nome file audio";
 "add_file.prompt.audio_file_message" = "Inserisci un nome per il nuovo file audio";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Nome (A-Z)";
 "files.sort.name_desc" = "Nome (Z-A)";
 "files.sort.date_desc" = "Prima i più recenti";
@@ -472,8 +458,6 @@
 "files.selection.clear_all" = "Deseleziona tutto";
 "files.selection.delete_confirmation" = "Eliminare gli elementi selezionati?";
 "files.search.not_found" = "Nessun risultato";
-
-/* Errors */
 "files.error.camera_unavailable" = "La fotocamera non è disponibile su questo dispositivo";
 "files.error.documents_unavailable" = "La cartella Documents non è disponibile";
 "files.error.outside_documents" = "L'URL è fuori dalla cartella Documents: %@";
@@ -494,8 +478,6 @@
 "files.error.only_files_can_be_imported" = "Da File possono essere importati solo file";
 "files.error.invalid_name_empty" = "Il nome non può essere vuoto";
 "files.error.invalid_name_characters" = "Il nome contiene caratteri non validi";
-
-/* Archive */
 "files.archive.not_archive" = "Il file selezionato non è un archivio ZIP";
 "files.archive.default.archive_name" = "Archivio";
 "files.archive.default.extracted_folder_name" = "Estratto";
@@ -513,8 +495,6 @@
 "files.compress.options.level.fast" = "Rapido";
 "files.compress.options.level.balanced" = "Bilanciato";
 "files.compress.options.level.best" = "Migliore";
-
-/* Files row actions */
 "files.actions.title" = "Azioni";
 "files.actions.properties" = "Proprietà";
 "files.actions.delete_confirmation" = "Eliminare questo elemento?";
@@ -557,10 +537,8 @@
 "files.playlists.error.already_exists" = "Esiste già una playlist con questo nome";
 "files.playlists.error.protected" = "Questa playlist non può essere modificata";
 "files.playlists.error.not_found" = "File playlist non trovato";
-
 "settings.language" = "Lingua";
 "settings.version" = "Versione";
-
 "settings.app_icon.title" = "Icona app";
 "settings.app_icon.screen_title" = "Icona";
 "settings.app_icon.unsupported" = "Questo dispositivo non supporta la modifica dell'icona dell'app.";
@@ -605,3 +583,5 @@
 "pincode.reset.title" = "Ripristina dati app";
 "pincode.reset.message" = "Tutti i dati dell'app verranno eliminati. Questa azione non può essere annullata.";
 "pincode.reset.confirm" = "Ripristina";
+// Needs review
+"files.id3.plain_lyrics" = "Testi semplici";

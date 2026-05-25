@@ -362,8 +362,6 @@
 "p2p.downloads.status_paused" = "Wstrzymano";
 "p2p.downloads.status_storage_error" = "Błąd pamięci";
 "p2p.downloads.second" = "s";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Prześlij plik";
@@ -384,18 +382,12 @@
 "web_server.html.open_folder" = "Otwórz folder";
 "web_server.html.download_file" = "Pobierz plik";
 "web_server.html.download_as_zip" = "Pobierz jako ZIP";
-
-/* Common */
 "common.cancel" = "Anuluj";
 "common.create" = "Utwórz";
 "common.error" = "Błąd";
 "common.loading" = "Ładowanie...";
 "common.ok" = "OK";
 "common.save" = "Zapisz";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Szukaj według tytułu";
 "files.txt.toolbar_encoding" = "Kodowanie";
@@ -407,8 +399,6 @@
 "files.default.audio_prefix" = "Audio";
 "files.default.new_file_name" = "Nowy plik";
 "files.default.photo_prefix" = "Zdjęcie";
-
-/* Add file options */
 "add_file.title" = "Dodaj";
 "add_file.option.folder" = "Folder";
 "add_file.option.text_file" = "Plik tekstowy";
@@ -438,8 +428,6 @@
 "add_file.audio_recording.start_failed" = "Nie można rozpocząć nagrywania";
 "add_file.audio_recording.prepare_failed" = "Nie udało się przygotować nagrania audio: %@";
 "add_file.audio_recording.playback_failed" = "Nie udało się odtworzyć nagrania audio: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Wprowadź nazwę";
 "add_file.prompt.default_placeholder" = "Nazwa";
 "add_file.prompt.folder_title" = "Nowy folder";
@@ -451,8 +439,6 @@
 "add_file.prompt.audio_file_title" = "Nowy plik audio";
 "add_file.prompt.audio_file_placeholder" = "Nazwa pliku audio";
 "add_file.prompt.audio_file_message" = "Wprowadź nazwę nowego pliku audio";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Nazwa (A do Z)";
 "files.sort.name_desc" = "Nazwa (Z do A)";
 "files.sort.date_desc" = "Najpierw najnowsze";
@@ -472,8 +458,6 @@
 "files.selection.clear_all" = "Wyczyść zaznaczenie";
 "files.selection.delete_confirmation" = "Usunąć wybrane elementy?";
 "files.search.not_found" = "Nic nie znaleziono";
-
-/* Errors */
 "files.error.camera_unavailable" = "Kamera nie jest dostępna na tym urządzeniu";
 "files.error.documents_unavailable" = "Katalog Documents jest niedostępny";
 "files.error.outside_documents" = "URL znajduje się poza katalogiem Documents: %@";
@@ -494,8 +478,6 @@
 "files.error.only_files_can_be_imported" = "Z Plików można importować tylko pliki";
 "files.error.invalid_name_empty" = "Nazwa nie może być pusta";
 "files.error.invalid_name_characters" = "Nazwa zawiera niedozwolone znaki";
-
-/* Archive */
 "files.archive.not_archive" = "Wybrany plik nie jest archiwum ZIP";
 "files.archive.default.archive_name" = "Archiwum";
 "files.archive.default.extracted_folder_name" = "Rozpakowane";
@@ -513,8 +495,6 @@
 "files.compress.options.level.fast" = "Szybki";
 "files.compress.options.level.balanced" = "Zrównoważony";
 "files.compress.options.level.best" = "Najlepszy";
-
-/* Files row actions */
 "files.actions.title" = "Akcje";
 "files.actions.properties" = "Właściwości";
 "files.actions.delete_confirmation" = "Usunąć ten element?";
@@ -557,10 +537,8 @@
 "files.playlists.error.already_exists" = "Playlista o tej nazwie już istnieje";
 "files.playlists.error.protected" = "Tej playlisty nie można zmienić";
 "files.playlists.error.not_found" = "Nie znaleziono pliku playlisty";
-
 "settings.language" = "Język";
 "settings.version" = "Wersja";
-
 "settings.app_icon.title" = "Ikona aplikacji";
 "settings.app_icon.screen_title" = "Ikona";
 "settings.app_icon.unsupported" = "To urządzenie nie obsługuje zmiany ikony aplikacji.";
@@ -605,3 +583,5 @@
 "pincode.reset.title" = "Reset danych aplikacji";
 "pincode.reset.message" = "Wszystkie dane aplikacji zostaną usunięte. Tej czynności nie można cofnąć.";
 "pincode.reset.confirm" = "Resetuj";
+// Needs review
+"files.id3.plain_lyrics" = "Proste teksty piosenek";
