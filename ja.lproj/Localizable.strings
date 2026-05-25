@@ -229,6 +229,9 @@
 "files.id3.genre_placeholder" = "ジャンルを追加";
 "files.id3.lyrics" = "歌詞";
 "files.id3.lyrics_placeholder" = "歌詞を追加";
+"files.id3.lyrics_search.title" = "Search lyrics";
+"files.id3.lyrics_search.search_placeholder" = "Artist - Title";
+"files.id3.lyrics_search.empty" = "No lyrics found";
 "files.id3.synchronized_lyrics" = "同期歌詞";
 "files.id3.synchronized_lyrics_placeholder" = "[00:02.00]最初の行\n[00:05.00]2行目";
 "files.id3.year" = "年";

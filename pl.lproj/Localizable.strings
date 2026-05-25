@@ -229,6 +229,9 @@
 "files.id3.genre_placeholder" = "Dodaj gatunek";
 "files.id3.lyrics" = "Tekst utworu";
 "files.id3.lyrics_placeholder" = "Dodaj tekst utworu";
+"files.id3.lyrics_search.title" = "Search lyrics";
+"files.id3.lyrics_search.search_placeholder" = "Artist - Title";
+"files.id3.lyrics_search.empty" = "No lyrics found";
 "files.id3.synchronized_lyrics" = "Synchronizowany tekst";
 "files.id3.synchronized_lyrics_placeholder" = "[00:02.00]Pierwszy wiersz\n[00:05.00]Drugi wiersz";
 "files.id3.year" = "Rok";

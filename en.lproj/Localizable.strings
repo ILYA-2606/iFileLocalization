@@ -229,6 +229,9 @@
 "files.id3.genre_placeholder" = "Add genre";
 "files.id3.lyrics" = "Lyrics";
 "files.id3.lyrics_placeholder" = "Add lyrics";
+"files.id3.lyrics_search.title" = "Search lyrics";
+"files.id3.lyrics_search.search_placeholder" = "Artist - Title";
+"files.id3.lyrics_search.empty" = "No lyrics found";
 "files.id3.synchronized_lyrics" = "Synchronized lyrics";
 "files.id3.synchronized_lyrics_placeholder" = "[00:02.00]First line\n[00:05.00]Second line";
 "files.id3.year" = "Year";

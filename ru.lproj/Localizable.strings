@@ -229,6 +229,9 @@
 "files.id3.genre_placeholder" = "Добавить жанр";
 "files.id3.lyrics" = "Текст песни";
 "files.id3.lyrics_placeholder" = "Добавьте текст песни";
+"files.id3.lyrics_search.title" = "Поиск текста";
+"files.id3.lyrics_search.search_placeholder" = "Артист - Название";
+"files.id3.lyrics_search.empty" = "Тексты не найдены";
 "files.id3.synchronized_lyrics" = "Синхронизированный текст";
 "files.id3.synchronized_lyrics_placeholder" = "[00:02.00]Первая строка\n[00:05.00]Вторая строка";
 "files.id3.year" = "Год";
