@@ -364,8 +364,6 @@
 "p2p.downloads.status_paused" = "Pausado";
 "p2p.downloads.status_storage_error" = "Erro de armazenamento";
 "p2p.downloads.second" = "s";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Enviar arquivo";
@@ -386,18 +384,12 @@
 "web_server.html.open_folder" = "Abrir pasta";
 "web_server.html.download_file" = "Baixar arquivo";
 "web_server.html.download_as_zip" = "Baixar como ZIP";
-
-/* Common */
 "common.cancel" = "Cancelar";
 "common.create" = "Criar";
 "common.error" = "Erro";
 "common.loading" = "Carregando...";
 "common.ok" = "OK";
 "common.save" = "Salvar";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Pesquisar por título";
 "files.txt.toolbar_encoding" = "Codificação";
@@ -409,8 +401,6 @@
 "files.default.audio_prefix" = "Áudio";
 "files.default.new_file_name" = "Novo arquivo";
 "files.default.photo_prefix" = "Foto";
-
-/* Add file options */
 "add_file.title" = "Adicionar";
 "add_file.option.folder" = "Pasta";
 "add_file.option.text_file" = "Arquivo de texto";
@@ -440,8 +430,6 @@
 "add_file.audio_recording.start_failed" = "Não foi possível iniciar a gravação";
 "add_file.audio_recording.prepare_failed" = "Não foi possível preparar a gravação de áudio: %@";
 "add_file.audio_recording.playback_failed" = "Não foi possível reproduzir a gravação de áudio: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Digite um nome";
 "add_file.prompt.default_placeholder" = "Nome";
 "add_file.prompt.folder_title" = "Nova pasta";
@@ -453,8 +441,6 @@
 "add_file.prompt.audio_file_title" = "Novo arquivo de áudio";
 "add_file.prompt.audio_file_placeholder" = "Nome do arquivo de áudio";
 "add_file.prompt.audio_file_message" = "Digite um nome para o novo arquivo de áudio";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Nome (A a Z)";
 "files.sort.name_desc" = "Nome (Z a A)";
 "files.sort.date_desc" = "Mais recentes primeiro";
@@ -474,8 +460,6 @@
 "files.selection.clear_all" = "Limpar seleção";
 "files.selection.delete_confirmation" = "Excluir os itens selecionados?";
 "files.search.not_found" = "Nada encontrado";
-
-/* Errors */
 "files.error.camera_unavailable" = "A câmera não está disponível neste dispositivo";
 "files.error.documents_unavailable" = "O diretório Documents não está disponível";
 "files.error.outside_documents" = "A URL está fora do diretório Documents: %@";
@@ -496,8 +480,6 @@
 "files.error.only_files_can_be_imported" = "Somente arquivos podem ser importados do app Arquivos";
 "files.error.invalid_name_empty" = "O nome não pode ficar vazio";
 "files.error.invalid_name_characters" = "O nome contém caracteres inválidos";
-
-/* Archive */
 "files.archive.not_archive" = "O arquivo selecionado não é um arquivo ZIP";
 "files.archive.default.archive_name" = "Arquivo";
 "files.archive.default.extracted_folder_name" = "Extraído";
@@ -515,8 +497,6 @@
 "files.compress.options.level.fast" = "Rápido";
 "files.compress.options.level.balanced" = "Equilibrado";
 "files.compress.options.level.best" = "Melhor";
-
-/* Files row actions */
 "files.actions.title" = "Ações";
 "files.actions.properties" = "Propriedades";
 "files.actions.delete_confirmation" = "Excluir este item?";
@@ -559,10 +539,8 @@
 "files.playlists.error.already_exists" = "Já existe uma playlist com este nome";
 "files.playlists.error.protected" = "Esta playlist não pode ser alterada";
 "files.playlists.error.not_found" = "O arquivo da playlist não foi encontrado";
-
 "settings.language" = "Idioma";
 "settings.version" = "Versão";
-
 "settings.app_icon.title" = "Ícone do app";
 "settings.app_icon.screen_title" = "Ícone";
 "settings.app_icon.unsupported" = "Este dispositivo não permite alterar o ícone do app.";
@@ -607,3 +585,5 @@
 "pincode.reset.title" = "Redefinir dados do app";
 "pincode.reset.message" = "Todos os dados do app serão excluídos. Esta ação não pode ser desfeita.";
 "pincode.reset.confirm" = "Redefinir";
+// Needs review
+"files.id3.plain_lyrics" = "Letras simples";

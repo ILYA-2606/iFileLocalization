@@ -364,8 +364,6 @@
 "p2p.downloads.status_paused" = "Pausiert";
 "p2p.downloads.status_storage_error" = "Speicherfehler";
 "p2p.downloads.second" = "s";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Datei hochladen";
@@ -386,18 +384,12 @@
 "web_server.html.open_folder" = "Ordner öffnen";
 "web_server.html.download_file" = "Datei herunterladen";
 "web_server.html.download_as_zip" = "Als ZIP herunterladen";
-
-/* Common */
 "common.cancel" = "Abbrechen";
 "common.create" = "Erstellen";
 "common.error" = "Fehler";
 "common.loading" = "Wird geladen...";
 "common.ok" = "OK";
 "common.save" = "Speichern";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Nach Titel suchen";
 "files.txt.toolbar_encoding" = "Kodierung";
@@ -409,8 +401,6 @@
 "files.default.audio_prefix" = "Audio";
 "files.default.new_file_name" = "Neue Datei";
 "files.default.photo_prefix" = "Foto";
-
-/* Add file options */
 "add_file.title" = "Hinzufügen";
 "add_file.option.folder" = "Ordner";
 "add_file.option.text_file" = "Textdatei";
@@ -440,8 +430,6 @@
 "add_file.audio_recording.start_failed" = "Aufnahme konnte nicht gestartet werden";
 "add_file.audio_recording.prepare_failed" = "Audioaufnahme konnte nicht vorbereitet werden: %@";
 "add_file.audio_recording.playback_failed" = "Audioaufnahme konnte nicht abgespielt werden: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Namen eingeben";
 "add_file.prompt.default_placeholder" = "Name";
 "add_file.prompt.folder_title" = "Neuer Ordner";
@@ -453,8 +441,6 @@
 "add_file.prompt.audio_file_title" = "Neue Audiodatei";
 "add_file.prompt.audio_file_placeholder" = "Audiodateiname";
 "add_file.prompt.audio_file_message" = "Geben Sie einen Namen für die neue Audiodatei ein";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Name (A bis Z)";
 "files.sort.name_desc" = "Name (Z bis A)";
 "files.sort.date_desc" = "Neueste zuerst";
@@ -474,8 +460,6 @@
 "files.selection.clear_all" = "Alle abwählen";
 "files.selection.delete_confirmation" = "Ausgewählte Elemente löschen?";
 "files.search.not_found" = "Nichts gefunden";
-
-/* Errors */
 "files.error.camera_unavailable" = "Kamera ist auf diesem Gerät nicht verfügbar";
 "files.error.documents_unavailable" = "Dokumentenordner ist nicht verfügbar";
 "files.error.outside_documents" = "URL liegt außerhalb von Documents: %@";
@@ -496,8 +480,6 @@
 "files.error.only_files_can_be_imported" = "Aus Dateien können nur Dateien importiert werden";
 "files.error.invalid_name_empty" = "Name darf nicht leer sein";
 "files.error.invalid_name_characters" = "Name enthält ungültige Zeichen";
-
-/* Archive */
 "files.archive.not_archive" = "Die ausgewählte Datei ist kein ZIP-Archiv";
 "files.archive.default.archive_name" = "Archiv";
 "files.archive.default.extracted_folder_name" = "Entpackt";
@@ -515,8 +497,6 @@
 "files.compress.options.level.fast" = "Schnell";
 "files.compress.options.level.balanced" = "Ausgewogen";
 "files.compress.options.level.best" = "Beste";
-
-/* Files row actions */
 "files.actions.title" = "Aktionen";
 "files.actions.properties" = "Eigenschaften";
 "files.actions.delete_confirmation" = "Dieses Element löschen?";
@@ -559,10 +539,8 @@
 "files.playlists.error.already_exists" = "Eine Playlist mit diesem Namen existiert bereits";
 "files.playlists.error.protected" = "Diese Playlist kann nicht geändert werden";
 "files.playlists.error.not_found" = "Playlistdatei wurde nicht gefunden";
-
 "settings.language" = "Sprache";
 "settings.version" = "Version";
-
 "settings.app_icon.title" = "App-Symbol";
 "settings.app_icon.screen_title" = "Symbol";
 "settings.app_icon.unsupported" = "Dieses Gerät unterstützt das Ändern des App-Symbols nicht.";
@@ -607,3 +585,5 @@
 "pincode.reset.title" = "App-Daten zurücksetzen";
 "pincode.reset.message" = "Alle App-Daten werden gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.";
 "pincode.reset.confirm" = "Zurücksetzen";
+// Needs review
+"files.id3.plain_lyrics" = "Schlichte Liedtexte";

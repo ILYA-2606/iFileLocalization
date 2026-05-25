@@ -364,8 +364,6 @@
 "p2p.downloads.status_paused" = "En pause";
 "p2p.downloads.status_storage_error" = "Erreur de stockage";
 "p2p.downloads.second" = "s";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Téléverser un fichier";
@@ -386,18 +384,12 @@
 "web_server.html.open_folder" = "Ouvrir le dossier";
 "web_server.html.download_file" = "Télécharger le fichier";
 "web_server.html.download_as_zip" = "Télécharger en ZIP";
-
-/* Common */
 "common.cancel" = "Annuler";
 "common.create" = "Créer";
 "common.error" = "Erreur";
 "common.loading" = "Chargement...";
 "common.ok" = "OK";
 "common.save" = "Enregistrer";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Rechercher par titre";
 "files.txt.toolbar_encoding" = "Encodage";
@@ -409,8 +401,6 @@
 "files.default.audio_prefix" = "Audio";
 "files.default.new_file_name" = "Nouveau fichier";
 "files.default.photo_prefix" = "Photo";
-
-/* Add file options */
 "add_file.title" = "Ajouter";
 "add_file.option.folder" = "Dossier";
 "add_file.option.text_file" = "Fichier texte";
@@ -440,8 +430,6 @@
 "add_file.audio_recording.start_failed" = "Impossible de démarrer l'enregistrement";
 "add_file.audio_recording.prepare_failed" = "Impossible de préparer l'enregistrement audio : %@";
 "add_file.audio_recording.playback_failed" = "Impossible de lire l'enregistrement audio : %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Saisir un nom";
 "add_file.prompt.default_placeholder" = "Nom";
 "add_file.prompt.folder_title" = "Nouveau dossier";
@@ -453,8 +441,6 @@
 "add_file.prompt.audio_file_title" = "Nouveau fichier audio";
 "add_file.prompt.audio_file_placeholder" = "Nom du fichier audio";
 "add_file.prompt.audio_file_message" = "Saisissez un nom pour le nouveau fichier audio";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Nom (A à Z)";
 "files.sort.name_desc" = "Nom (Z à A)";
 "files.sort.date_desc" = "Plus récents d'abord";
@@ -474,8 +460,6 @@
 "files.selection.clear_all" = "Tout désélectionner";
 "files.selection.delete_confirmation" = "Supprimer les éléments sélectionnés ?";
 "files.search.not_found" = "Rien trouvé";
-
-/* Errors */
 "files.error.camera_unavailable" = "L'appareil photo n'est pas disponible sur cet appareil";
 "files.error.documents_unavailable" = "Le dossier Documents n'est pas disponible";
 "files.error.outside_documents" = "L'URL est en dehors du dossier Documents : %@";
@@ -496,8 +480,6 @@
 "files.error.only_files_can_be_imported" = "Seuls les fichiers peuvent être importés depuis Fichiers";
 "files.error.invalid_name_empty" = "Le nom ne doit pas être vide";
 "files.error.invalid_name_characters" = "Le nom contient des caractères non valides";
-
-/* Archive */
 "files.archive.not_archive" = "Le fichier sélectionné n'est pas une archive ZIP";
 "files.archive.default.archive_name" = "Archive";
 "files.archive.default.extracted_folder_name" = "Extrait";
@@ -515,8 +497,6 @@
 "files.compress.options.level.fast" = "Rapide";
 "files.compress.options.level.balanced" = "Équilibré";
 "files.compress.options.level.best" = "Meilleur";
-
-/* Files row actions */
 "files.actions.title" = "Actions";
 "files.actions.properties" = "Propriétés";
 "files.actions.delete_confirmation" = "Supprimer cet élément ?";
@@ -559,10 +539,8 @@
 "files.playlists.error.already_exists" = "Une liste de lecture portant ce nom existe déjà";
 "files.playlists.error.protected" = "Cette liste de lecture ne peut pas être modifiée";
 "files.playlists.error.not_found" = "Le fichier de liste de lecture est introuvable";
-
 "settings.language" = "Langue";
 "settings.version" = "Version";
-
 "settings.app_icon.title" = "Icône de l'app";
 "settings.app_icon.screen_title" = "Icône";
 "settings.app_icon.unsupported" = "Cet appareil ne prend pas en charge le changement d'icône de l'app.";
@@ -607,3 +585,5 @@
 "pincode.reset.title" = "Réinitialiser les données de l'app";
 "pincode.reset.message" = "Toutes les données de l'app seront supprimées. Cette action est irréversible.";
 "pincode.reset.confirm" = "Réinitialiser";
+// Needs review
+"files.id3.plain_lyrics" = "Paroles simples";

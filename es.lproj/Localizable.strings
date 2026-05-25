@@ -364,8 +364,6 @@
 "p2p.downloads.status_paused" = "Pausado";
 "p2p.downloads.status_storage_error" = "Error de almacenamiento";
 "p2p.downloads.second" = "s";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "Subir archivo";
@@ -386,18 +384,12 @@
 "web_server.html.open_folder" = "Abrir carpeta";
 "web_server.html.download_file" = "Descargar archivo";
 "web_server.html.download_as_zip" = "Descargar como ZIP";
-
-/* Common */
 "common.cancel" = "Cancelar";
 "common.create" = "Crear";
 "common.error" = "Error";
 "common.loading" = "Cargando...";
 "common.ok" = "OK";
 "common.save" = "Guardar";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "Buscar por titulo";
 "files.txt.toolbar_encoding" = "Codificacion";
@@ -409,8 +401,6 @@
 "files.default.audio_prefix" = "Audio";
 "files.default.new_file_name" = "Archivo nuevo";
 "files.default.photo_prefix" = "Foto";
-
-/* Add file options */
 "add_file.title" = "Agregar";
 "add_file.option.folder" = "Carpeta";
 "add_file.option.text_file" = "Archivo de texto";
@@ -440,8 +430,6 @@
 "add_file.audio_recording.start_failed" = "No se pudo iniciar la grabacion";
 "add_file.audio_recording.prepare_failed" = "No se pudo preparar la grabacion de audio: %@";
 "add_file.audio_recording.playback_failed" = "No se pudo reproducir la grabacion de audio: %@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "Introduce nombre";
 "add_file.prompt.default_placeholder" = "Nombre";
 "add_file.prompt.folder_title" = "Nueva carpeta";
@@ -453,8 +441,6 @@
 "add_file.prompt.audio_file_title" = "Nuevo archivo de audio";
 "add_file.prompt.audio_file_placeholder" = "Nombre del archivo de audio";
 "add_file.prompt.audio_file_message" = "Introduce un nombre para el nuevo archivo de audio";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "Nombre (A a Z)";
 "files.sort.name_desc" = "Nombre (Z a A)";
 "files.sort.date_desc" = "Mas recientes primero";
@@ -474,8 +460,6 @@
 "files.selection.clear_all" = "Borrar seleccion";
 "files.selection.delete_confirmation" = "Eliminar los elementos seleccionados?";
 "files.search.not_found" = "No se encontro nada";
-
-/* Errors */
 "files.error.camera_unavailable" = "La camara no esta disponible en este dispositivo";
 "files.error.documents_unavailable" = "El directorio Documents no esta disponible";
 "files.error.outside_documents" = "La URL esta fuera del directorio Documents: %@";
@@ -496,8 +480,6 @@
 "files.error.only_files_can_be_imported" = "Solo se pueden importar archivos desde Archivos";
 "files.error.invalid_name_empty" = "El nombre no debe estar vacio";
 "files.error.invalid_name_characters" = "El nombre contiene caracteres no validos";
-
-/* Archive */
 "files.archive.not_archive" = "El archivo seleccionado no es un archivo ZIP";
 "files.archive.default.archive_name" = "Archivo";
 "files.archive.default.extracted_folder_name" = "Extraido";
@@ -515,8 +497,6 @@
 "files.compress.options.level.fast" = "Rapido";
 "files.compress.options.level.balanced" = "Equilibrado";
 "files.compress.options.level.best" = "Mejor";
-
-/* Files row actions */
 "files.actions.title" = "Acciones";
 "files.actions.properties" = "Propiedades";
 "files.actions.delete_confirmation" = "Eliminar este elemento?";
@@ -559,10 +539,8 @@
 "files.playlists.error.already_exists" = "Ya existe una playlist con este nombre";
 "files.playlists.error.protected" = "Esta playlist no se puede cambiar";
 "files.playlists.error.not_found" = "No se encontro el archivo de la playlist";
-
 "settings.language" = "Idioma";
 "settings.version" = "Versión";
-
 "settings.app_icon.title" = "Icono de la app";
 "settings.app_icon.screen_title" = "Icono";
 "settings.app_icon.unsupported" = "Este dispositivo no permite cambiar el icono de la app.";
@@ -607,3 +585,5 @@
 "pincode.reset.title" = "Restablecer datos de la app";
 "pincode.reset.message" = "Se eliminaran todos los datos de la app. Esta accion no se puede deshacer.";
 "pincode.reset.confirm" = "Restablecer";
+// Needs review
+"files.id3.plain_lyrics" = "Letras sencillas";

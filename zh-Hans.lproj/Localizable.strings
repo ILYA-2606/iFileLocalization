@@ -364,8 +364,6 @@
 "p2p.downloads.status_paused" = "已暂停";
 "p2p.downloads.status_storage_error" = "存储错误";
 "p2p.downloads.second" = "秒";
-
-/* Web server HTML */
 "web_server.html.page_title" = "iFile Web Server";
 "web_server.html.header_title" = "iFile";
 "web_server.html.upload_file" = "上传文件";
@@ -386,18 +384,12 @@
 "web_server.html.open_folder" = "打开文件夹";
 "web_server.html.download_file" = "下载文件";
 "web_server.html.download_as_zip" = "下载为 ZIP";
-
-/* Common */
 "common.cancel" = "取消";
 "common.create" = "创建";
 "common.error" = "错误";
 "common.loading" = "正在加载...";
 "common.ok" = "确定";
 "common.save" = "保存";
-
-/* ContentView */
-
-/* FilesView */
 "files.documents_title" = "Documents";
 "files.search_placeholder" = "按标题搜索";
 "files.txt.toolbar_encoding" = "编码";
@@ -409,8 +401,6 @@
 "files.default.audio_prefix" = "音频";
 "files.default.new_file_name" = "新文件";
 "files.default.photo_prefix" = "照片";
-
-/* Add file options */
 "add_file.title" = "添加";
 "add_file.option.folder" = "文件夹";
 "add_file.option.text_file" = "文本文件";
@@ -440,8 +430,6 @@
 "add_file.audio_recording.start_failed" = "无法开始录音";
 "add_file.audio_recording.prepare_failed" = "无法准备录音：%@";
 "add_file.audio_recording.playback_failed" = "无法播放录音：%@";
-
-/* Name prompt */
 "add_file.prompt.default_title" = "输入名称";
 "add_file.prompt.default_placeholder" = "名称";
 "add_file.prompt.folder_title" = "新建文件夹";
@@ -453,8 +441,6 @@
 "add_file.prompt.audio_file_title" = "新建音频文件";
 "add_file.prompt.audio_file_placeholder" = "音频文件名";
 "add_file.prompt.audio_file_message" = "输入新音频文件的名称";
-
-/* Sorting accessibility */
 "files.sort.name_asc" = "名称（A 到 Z）";
 "files.sort.name_desc" = "名称（Z 到 A）";
 "files.sort.date_desc" = "最新优先";
@@ -474,8 +460,6 @@
 "files.selection.clear_all" = "清除选择";
 "files.selection.delete_confirmation" = "删除选中的项目？";
 "files.search.not_found" = "未找到任何内容";
-
-/* Errors */
 "files.error.camera_unavailable" = "此设备上的相机不可用";
 "files.error.documents_unavailable" = "Documents 目录不可用";
 "files.error.outside_documents" = "URL 位于 Documents 目录之外：%@";
@@ -496,8 +480,6 @@
 "files.error.only_files_can_be_imported" = "只能从“文件”导入文件";
 "files.error.invalid_name_empty" = "名称不能为空";
 "files.error.invalid_name_characters" = "名称包含无效字符";
-
-/* Archive */
 "files.archive.not_archive" = "所选文件不是 ZIP 压缩包";
 "files.archive.default.archive_name" = "压缩包";
 "files.archive.default.extracted_folder_name" = "已解压";
@@ -515,8 +497,6 @@
 "files.compress.options.level.fast" = "快速";
 "files.compress.options.level.balanced" = "平衡";
 "files.compress.options.level.best" = "最佳";
-
-/* Files row actions */
 "files.actions.title" = "操作";
 "files.actions.properties" = "属性";
 "files.actions.delete_confirmation" = "删除此项目？";
@@ -559,10 +539,8 @@
 "files.playlists.error.already_exists" = "已存在同名播放列表";
 "files.playlists.error.protected" = "无法更改此播放列表";
 "files.playlists.error.not_found" = "未找到播放列表文件";
-
 "settings.language" = "语言";
 "settings.version" = "版本";
-
 "settings.app_icon.title" = "App 图标";
 "settings.app_icon.screen_title" = "图标";
 "settings.app_icon.unsupported" = "此设备不支持更改 App 图标。";
@@ -607,3 +585,5 @@
 "pincode.reset.title" = "重置 App 数据";
 "pincode.reset.message" = "所有 App 数据都将被删除。此操作无法撤销。";
 "pincode.reset.confirm" = "重置";
+// Needs review
+"files.id3.plain_lyrics" = "平实歌词";
