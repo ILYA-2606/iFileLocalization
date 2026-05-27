@@ -35,6 +35,7 @@
 "services.download.unknown" = "--";
 "services.system_folders.read_only" = "只读";
 "services.system_folders.full_access" = "完全访问";
+"services.system_folders.select_folder" = "选择文件夹";
 "services.item.icloud" = "iCloud";
 "services.item.ftp_sftp" = "FTP / SFTP";
 "services.item.system_folders" = "系统文件夹";

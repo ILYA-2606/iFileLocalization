@@ -35,6 +35,7 @@
 "services.download.unknown" = "--";
 "services.system_folders.read_only" = "Somente leitura";
 "services.system_folders.full_access" = "Acesso total";
+"services.system_folders.select_folder" = "Selecionar pasta";
 "services.item.icloud" = "iCloud";
 "services.item.ftp_sftp" = "FTP / SFTP";
 "services.item.system_folders" = "Pastas do sistema";

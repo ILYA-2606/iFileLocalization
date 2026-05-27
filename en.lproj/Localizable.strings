@@ -35,6 +35,7 @@
 "services.download.unknown" = "--";
 "services.system_folders.read_only" = "Read only";
 "services.system_folders.full_access" = "Full access";
+"services.system_folders.select_folder" = "Select folder";
 "services.item.icloud" = "iCloud";
 "services.item.ftp_sftp" = "FTP / SFTP";
 "services.item.system_folders" = "System folders";

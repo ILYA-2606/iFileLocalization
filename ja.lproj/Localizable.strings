@@ -35,6 +35,7 @@
 "services.download.unknown" = "--";
 "services.system_folders.read_only" = "読み取り専用";
 "services.system_folders.full_access" = "フルアクセス";
+"services.system_folders.select_folder" = "フォルダを選択";
 "services.item.icloud" = "iCloud";
 "services.item.ftp_sftp" = "FTP / SFTP";
 "services.item.system_folders" = "システムフォルダ";
