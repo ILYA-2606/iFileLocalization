@@ -588,3 +588,5 @@
 "pincode.reset.confirm" = "Zurücksetzen";
 // Needs review
 "files.id3.plain_lyrics" = "Schlichte Liedtexte";
+// Needs review
+"player.search" = "Suche";

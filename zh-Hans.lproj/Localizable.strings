@@ -588,3 +588,5 @@
 "pincode.reset.confirm" = "重置";
 // Needs review
 "files.id3.plain_lyrics" = "平实歌词";
+// Needs review
+"player.search" = "搜索";

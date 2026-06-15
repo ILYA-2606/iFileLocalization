@@ -587,3 +587,4 @@
 "pincode.reset.message" = "All application data will be deleted. This action cannot be undone.";
 "pincode.reset.confirm" = "Reset";
 "files.id3.plain_lyrics" = "Plain lyrics";
+"player.search" = "Search";

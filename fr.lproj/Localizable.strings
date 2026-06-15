@@ -588,3 +588,5 @@
 "pincode.reset.confirm" = "Réinitialiser";
 // Needs review
 "files.id3.plain_lyrics" = "Paroles simples";
+// Needs review
+"player.search" = "Recherche";

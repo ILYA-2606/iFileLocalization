@@ -588,3 +588,5 @@
 "pincode.reset.confirm" = "Скинути";
 // Needs review
 "files.id3.plain_lyrics" = "Прості тексти";
+// Needs review
+"player.search" = "Пошук";

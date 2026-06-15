@@ -588,3 +588,5 @@
 "pincode.reset.confirm" = "Resetuj";
 // Needs review
 "files.id3.plain_lyrics" = "Proste teksty piosenek";
+// Needs review
+"player.search" = "Wyszukiwanie";

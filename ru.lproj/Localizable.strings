@@ -587,3 +587,5 @@
 "pincode.reset.message" = "Все данные приложения будут удалены. Это действие нельзя отменить.";
 "pincode.reset.confirm" = "Сбросить";
 "files.id3.plain_lyrics" = "Простой текст";
+// Needs review
+"player.search" = "Поиск";
