@@ -590,3 +590,5 @@
 "files.id3.plain_lyrics" = "Testi semplici";
 // Needs review
 "player.search" = "Ricerca";
+// Needs review
+"common.searching" = "Cerca...";

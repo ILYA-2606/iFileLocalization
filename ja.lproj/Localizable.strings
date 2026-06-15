@@ -590,3 +590,5 @@
 "files.id3.plain_lyrics" = "平凡な歌詞";
 // Needs review
 "player.search" = "検索";
+// Needs review
+"common.searching" = "探している...";

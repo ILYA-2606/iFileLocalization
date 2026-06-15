@@ -588,3 +588,5 @@
 "pincode.reset.confirm" = "Reset";
 "files.id3.plain_lyrics" = "Plain lyrics";
 "player.search" = "Search";
+// Needs review
+"common.searching" = "Searching...";

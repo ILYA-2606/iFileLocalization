@@ -590,3 +590,5 @@
 "files.id3.plain_lyrics" = "Proste teksty piosenek";
 // Needs review
 "player.search" = "Wyszukiwanie";
+// Needs review
+"common.searching" = "Szukając...";

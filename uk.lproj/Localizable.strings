@@ -590,3 +590,5 @@
 "files.id3.plain_lyrics" = "Прості тексти";
 // Needs review
 "player.search" = "Пошук";
+// Needs review
+"common.searching" = "Пошук...";

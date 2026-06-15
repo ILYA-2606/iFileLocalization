@@ -590,3 +590,5 @@
 "files.id3.plain_lyrics" = "平实歌词";
 // Needs review
 "player.search" = "搜索";
+// Needs review
+"common.searching" = "寻找......";

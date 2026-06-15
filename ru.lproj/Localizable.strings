@@ -588,3 +588,4 @@
 "pincode.reset.confirm" = "Сбросить";
 "files.id3.plain_lyrics" = "Простой текст";
 "player.search" = "Поиск";
+"common.searching" = "Поиск...";
